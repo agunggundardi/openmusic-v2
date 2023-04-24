@@ -1,7 +1,7 @@
 {
-  "name": "OpenMusicAPI-v3",
-  "version": "3.0.0",
-  "description": "Open Music API Versi 3",
+  "name": "OpenMusicAPI-v2",
+  "version": "2.0.0",
+  "description": "Open Music API Versi 2",
   "main": "src/server.js",
   "scripts": {
     "start-dev": "nodemon ./src/server.js",
