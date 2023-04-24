@@ -1,0 +1,10 @@
+# .gitignore
+
+# Folder node_modules
+node_modules/
+
+# Berkas .env
+.env
+
+# Berkas package-lock.json
+package-lock.json
